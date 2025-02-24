@@ -64,7 +64,7 @@ import {IconBrandFacebook, IconBrandInstagram, IconMapPin, IconBrandWhatsapp, Ic
             />
             <a href="mailto:beltmarketing7@gmail.com?subject=Interesado%20en%20tu%20servicio" target="_blank" class="text-[16px] md:text-[20px]"
                data-aos="zoom-in" data-aos-delay="1600" data-aos-duration="1000"
-            >beltmarketing7@gmail.com</a>
+            >contacto@beltmarketing.co</a>
           </div>
           <div class="flex items-center gap-6 text-white">
             <IconWorldWww class="w-6 h-6 md:w-8 md:h-8"
